@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "ETLWorkcerSevice": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker",
+      "DockerfileRunArguments": "--network=demodb_trainingnet -v C://Rapidbootcamp//demodb//csvdata:/csvdata:rw"
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json"
+}

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rapidbootcamp\\WorkerServiceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|c:\\rapidbootcamp\\workerservicedemo\\etlworkcersevice\\etlworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|solutionrelative:etlworkcersevice\\etlworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|c:\\rapidbootcamp\\workerservicedemo\\etlworkcersevice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|solutionrelative:etlworkcersevice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|c:\\rapidbootcamp\\workerservicedemo\\etlworkcersevice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|solutionrelative:etlworkcersevice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|c:\\rapidbootcamp\\workerservicedemo\\etlworkcersevice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|solutionrelative:etlworkcersevice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|c:\\rapidbootcamp\\workerservicedemo\\etlworkcersevice\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|solutionrelative:etlworkcersevice\\filesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|c:\\rapidbootcamp\\workerservicedemo\\etlworkcersevice\\etlworkcersevice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40EDAF3F-3C02-437B-B355-9549C297F6C0}|ETLWorkcerSevice\\ETLWorkcerSevice.csproj|solutionrelative:etlworkcersevice\\etlworkcersevice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ETLWorkcerSevice.csproj",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\ETLWorkcerSevice.csproj",
+              "RelativeDocumentMoniker": "ETLWorkcerSevice\\ETLWorkcerSevice.csproj",
+              "ToolTip": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\ETLWorkcerSevice.csproj",
+              "RelativeToolTip": "ETLWorkcerSevice\\ETLWorkcerSevice.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T06:27:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileSettings.cs",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\FileSettings.cs",
+              "RelativeDocumentMoniker": "ETLWorkcerSevice\\FileSettings.cs",
+              "ToolTip": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\FileSettings.cs",
+              "RelativeToolTip": "ETLWorkcerSevice\\FileSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T03:04:18.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\Program.cs",
+              "RelativeDocumentMoniker": "ETLWorkcerSevice\\Program.cs",
+              "ToolTip": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\Program.cs",
+              "RelativeToolTip": "ETLWorkcerSevice\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:44:54.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ETLWorkerService.cs",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\ETLWorkerService.cs",
+              "RelativeDocumentMoniker": "ETLWorkcerSevice\\ETLWorkerService.cs",
+              "ToolTip": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\ETLWorkerService.cs",
+              "RelativeToolTip": "ETLWorkcerSevice\\ETLWorkerService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:43:39.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ETLWorkcerSevice\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ETLWorkcerSevice\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T02:39:25.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\appsettings.json",
+              "RelativeDocumentMoniker": "ETLWorkcerSevice\\appsettings.json",
+              "ToolTip": "C:\\Rapidbootcamp\\WorkerServiceDemo\\ETLWorkcerSevice\\appsettings.json",
+              "RelativeToolTip": "ETLWorkcerSevice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T02:33:33.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

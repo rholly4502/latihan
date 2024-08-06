@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rapidbootcamp\\MyWorkerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B984333-8E7C-4CC2-91F6-7A2AA4463733}|MyWorkerService\\MyWorkerService.csproj|c:\\rapidbootcamp\\myworkerservice\\myworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B984333-8E7C-4CC2-91F6-7A2AA4463733}|MyWorkerService\\MyWorkerService.csproj|solutionrelative:myworkerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B984333-8E7C-4CC2-91F6-7A2AA4463733}|MyWorkerService\\MyWorkerService.csproj|c:\\rapidbootcamp\\myworkerservice\\myworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B984333-8E7C-4CC2-91F6-7A2AA4463733}|MyWorkerService\\MyWorkerService.csproj|solutionrelative:myworkerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\MyWorkerService\\MyWorkerService\\Worker.cs",
+              "RelativeDocumentMoniker": "MyWorkerService\\Worker.cs",
+              "ToolTip": "C:\\Rapidbootcamp\\MyWorkerService\\MyWorkerService\\Worker.cs",
+              "RelativeToolTip": "MyWorkerService\\Worker.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:36:14.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rapidbootcamp\\MyWorkerService\\MyWorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "MyWorkerService\\Program.cs",
+              "ToolTip": "C:\\Rapidbootcamp\\MyWorkerService\\MyWorkerService\\Program.cs",
+              "RelativeToolTip": "MyWorkerService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T08:35:42.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
